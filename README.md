@@ -39,5 +39,5 @@
 
 ## 💼 Availability
 I'm open for:
-- **Freelance / Contract (USD)**
+- **Freelance / Contract**
 - MVP / rapid prototyping → then hardening for production
