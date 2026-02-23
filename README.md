@@ -7,7 +7,7 @@
   <a href="https://ysrn.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-blue"></a>
   <a href="https://github.com/ysrndev?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/github-repo-blue?logo=github"></a>
   <a href="https://www.linkedin.com/in/USERNAME"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-blue"></a>
-  <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-contact-informational"></a>
+  <a href="mailto:ahmadyusronh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-informational"></a>
 </p>
 
 <p align="center">
