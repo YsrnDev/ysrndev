@@ -31,7 +31,6 @@
 | **Prompt Engineering** | React, Vite, TS | Prompt generator with validation/rate-limit + PWA + E2E tests |
 | **Comicfolio** | TS, Dashboard | Portfolio + admin dashboard (auth + lightweight backend) |
 
-> Tip: replace each project name above with a link to the repo + add a “Live Demo” link if available.
 
 ## 🧰 Tech Stack
 - **Frontend:** Next.js, React, TypeScript, Tailwind CSS
