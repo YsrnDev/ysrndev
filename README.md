@@ -35,6 +35,3 @@
 I'm open for:
 - **Freelance / Contract (USD)**
 - MVP / rapid prototyping → then hardening for production
-
-## 📫 Contact
-- Email: ahmadyusronh@gmail.com
