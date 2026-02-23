@@ -4,10 +4,17 @@
 </p>
 
 <p align="center">
-  <a href="https://ysrn.xyz">Portfolio</a> •
-  <a href="https://github.com/ysrndev?tab=repositories">Projects</a> •
-  <a href="https://www.linkedin.com/in/USERNAME">LinkedIn</a> •
-  <a href="mailto:ahmadyusronh@gmail.com">Email</a>
+  <a href="https://ysrn.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-blue"></a>
+  <a href="https://github.com/ysrndev?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/github-repo-blue?logo=github"></a>
+  <a href="https://www.linkedin.com/in/USERNAME"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-blue"></a>
+  <a href="mailto:YOUR_EMAIL"><img alt="Email" src="https://img.shields.io/badge/Email-contact-informational"></a>
+</p>
+
+<p align="center">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwindcss&logoColor=fff">
 </p>
 
 ---
