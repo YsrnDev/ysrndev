@@ -25,11 +25,11 @@
 - Comfortable with API integration, state management, and testing
 
 ## ⭐ Featured Projects
-| Project | Stack | What it is |
-|---|---|---|
-| **Speedtest** | Next.js, TS, Tailwind | Real-time speed test UI (download/upload/ping/jitter) + deploy-ready |
-| **Prompt Engineering** | React, Vite, TS | Prompt generator with validation/rate-limit + PWA + E2E tests |
-| **Comicfolio** | TS, Dashboard | Portfolio + admin dashboard (auth + lightweight backend) |
+| Project | Stack | What it is | Links |
+|---|---|---|---|
+| **Speedtest** | Next.js, TS, Tailwind | Real-time speed test UI (download/upload/ping/jitter) + deploy-ready | [<img alt="Repo" src="https://img.shields.io/badge/Repo-ADD8E6">](https://github.com/YsrnDev/speedtest) [<img alt="Demo" src="https://img.shields.io/badge/Demo-ADD8E6">](https://speedtest.bulenetwork.com) |
+| **Prompt Engineering** | React, Vite, TS | Prompt generator with validation/rate-limit + PWA + E2E tests | [<img alt="Repo" src="https://img.shields.io/badge/Repo-ADD8E6">](https://github.com/YsrnDev/prompt-engineering) [<img alt="Demo" src="https://img.shields.io/badge/Demo-ADD8E6">](https://prompt-arcgent.vercel.app) |
+| **Comicfolio** | TS, Dashboard | Portfolio + admin dashboard (auth + lightweight backend) | [<img alt="Repo" src="https://img.shields.io/badge/Repo-ADD8E6">](https://github.com/YsrnDev/comicfolio) [<img alt="Demo" src="https://img.shields.io/badge/Demo-ADD8E6">](https://comicfolio.vercel.app) |
 
 
 ## 🧰 Tech Stack
